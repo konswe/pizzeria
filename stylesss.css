@@ -1,0 +1,39 @@
+fieldset{
+    width: 40%;
+    height: 70%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 7%;
+    font-size: 200%;
+    background-image: url("zdjecie1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    color: white;
+    background-color: red;
+}
+
+#guzik{
+    font-size: 120%;
+    float: right;
+}
+
+#Pizza
+{
+    font-size: 120%;
+}
+
+#Imie
+{
+    font-size: 120%;
+}
+#Mail
+{
+    font-size: 120%;
+}
+
+#Telefon
+{
+    font-size: 120%;
+}
